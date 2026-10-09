@@ -1,0 +1,81 @@
+# AİLE VE EVLİLİK DESTEK PLATFORMU
+
+## 1. Platformun Amacı
+
+Bu platformun amacı, evlilik öncesinde ve evlilik sırasında insanların ihtiyaç duyduğu bilgilere kolayca ulaşmasını sağlamaktır. Evlilik, aile hayatı, çocuk bakımı, maddi sorumluluklar ve iletişim konularında bilinçlenmeyi destekler.
+
+## 2. Evlilik Öncesi Hazırlık
+
+Evlilik öncesinde çiftlerin birbirlerini tanımaları, beklentilerini konuşmaları ve geleceğe yönelik ortak kararlar almaları önemlidir.
+
+Konuşulması gereken başlıca konular:
+
+* Gelecek hedefleri ve yaşam planları
+* Ev işleri ve sorumlulukların paylaşılması
+* Para yönetimi ve ortak bütçe
+* Çocuk sahibi olma düşüncesi
+* Ailelerle ilişkiler ve kişisel sınırlar
+* Tartışmaların nasıl çözüleceği
+
+## 3. Maddi Sorumluluklar
+
+Maddi sorunlar aile içinde anlaşmazlıklara neden olabilir. Gelir ve giderleri planlamak, bütçe oluşturmak, borçlar konusunda açık olmak ve tasarruf hedefleri belirlemek yararlı olabilir.
+
+Çiftlerin evlilik öncesinde maddi beklentilerini konuşmaları, gelecekte karşılaşabilecekleri sorunlara hazırlıklı olmalarına yardımcı olabilir.
+
+## 4. Aile İçi İletişim
+
+Sağlıklı iletişim, aile hayatının önemli parçalarından biridir. İnsanların birbirlerini dikkatle dinlemeleri, duygularını saygılı bir şekilde ifade etmeleri ve karşı tarafın düşüncelerini anlamaya çalışmaları önemlidir.
+
+Anlaşmazlık yaşandığında hakaret etmek, tehdit etmek veya karşı tarafı baskı altına almak yerine sorunu birlikte çözmeye çalışmak gerekir.
+
+## 5. Çocuk Bakımı ve Ebeveynlik
+
+Çocuk yetiştirmek zaman, sabır, ilgi ve sorumluluk gerektirir. Ebeveynlerin çocukların fiziksel, duygusal ve sosyal ihtiyaçları hakkında bilgi edinmeleri önemlidir.
+
+Çocuk sahibi olmayı düşünen çiftler şu konuları değerlendirebilir:
+
+* Çocuk bakımının paylaşılması
+* Günlük yaşam ve çalışma düzeni
+* Çocuğun eğitimi ve gelişimi
+* Güvenli bir ev ortamı oluşturulması
+* Gerektiğinde uzmanlardan destek alınması
+
+## 6. Tartışmaların ve Anlaşmazlıkların Çözümü
+
+Her ailede zaman zaman anlaşmazlıklar yaşanabilir. Önemli olan, sorunları güvenli ve saygılı bir şekilde ele almaktır.
+
+Sorunları çözmek için taraflar sakinleşmek üzere ara verebilir, birbirlerini dinleyebilir ve ortak çözümler arayabilir. Sorunlar devam ediyorsa aile danışmanlığı veya uygun bir uzman desteği değerlendirilebilir.
+
+Şiddet, tehdit veya korkutma normal bir tartışma biçimi değildir. Güvenlik tehlikedeyse öncelik güvenli bir ortam sağlamak ve yardım almaktır.
+
+## 7. Boşanma ve Aile Sorunları
+
+Boşanma oranlarını etkileyebilecek ekonomik koşullar, toplumsal değişimler, ilişki sorunları ve kişisel koşullar farklı toplumlarda değişebilir.
+
+Boşanma oranlarının neden yükseldiğini veya evlilik oranlarının neden düştüğünü anlamak için resmî istatistikler ve bilimsel araştırmalar incelenmelidir. Tek bir nedeni bütün ailelere genellemek doğru değildir.
+
+Platform, aile sorunlarını önceden ele almayı ve insanların doğru bilgiye ulaşmasını desteklemeyi amaçlar.
+
+## 8. Platformda Kullanılacak Kaynaklar
+
+Platformda kullanılacak bilgiler mümkün olduğunca güvenilir ve doğrulanabilir kaynaklardan alınmalıdır.
+
+Önerilen kaynak türleri:
+
+* Resmî istatistik kurumlarının verileri
+* Üniversitelerin bilimsel araştırmaları
+* Hakemli akademik makaleler
+* Kamu kurumlarının aile ve çocuk gelişimi yayınları
+* Uzman kuruluşların bilgilendirme materyalleri
+* Kullanım koşulları uygun olan açık kaynaklı GitHub projeleri
+
+Her bilgi için mümkün olduğunda kaynak adı, bağlantı, yayın tarihi ve erişim tarihi belirtilmelidir.
+
+## 9. Platformun Hedefi
+
+Bu platformun hedefi insanları evliliğe zorlamak veya boşanmayı her durumda önlemek değildir. Hedef; insanların bilinçli kararlar almasına, sağlıklı iletişim kurmasına, sorumluluklarını anlamasına ve ihtiyaç duyduklarında doğru desteğe ulaşmasına yardımcı olmaktır.
+
+## 10. Önemli Not
+
+Bu metin genel bilgilendirme amacıyla hazırlanmıştır. İstatistiksel iddialar, bilimsel araştırmalarla doğrulanmadan kesin bilgi olarak sunulmamalıdır. Platformda yer alan içerikler gerektiğinde uzman görüşleriyle desteklenmelidir.
